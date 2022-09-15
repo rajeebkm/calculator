@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rajeebkm/calculator" target="_blank">
-    <img src="/assets/dem.gif" width="620">
+    <img src="/assets/dem.png" width="620">
   </a>
 </p>
 
